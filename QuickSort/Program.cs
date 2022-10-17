@@ -53,6 +53,11 @@ namespace QuickSort
         public void q_sort (int low, int high)
         {
             int pivot, 1, j;
+            if (low > high)
+                return;
+
+            //Partition the list into two parts:
+
 
 
         }
