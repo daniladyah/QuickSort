@@ -33,6 +33,8 @@ namespace QuickSort
             Console.WriteLine("Enter Array Elments");
             Console.WriteLine("\n======================");
 
+            //get array elements
+
 
         }
     }
