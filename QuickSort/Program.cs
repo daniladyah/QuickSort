@@ -122,6 +122,8 @@ namespace QuickSort
             return (n);
         }
         static void Main(string[]args)
+        {
+            //Declaring the object of the class
 
 
 
