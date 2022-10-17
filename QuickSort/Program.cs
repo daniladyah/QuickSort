@@ -57,6 +57,7 @@ namespace QuickSort
                 return;
 
             //Partition the list into two parts:
+            //one containing elements less that or equal to pivot
 
 
 
