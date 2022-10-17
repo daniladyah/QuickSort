@@ -63,6 +63,8 @@ namespace QuickSort
             i = low + 1;
             j = high;
 
+            pivot = arr[low];
+
 
 
 
