@@ -119,6 +119,9 @@ namespace QuickSort
         }
         int getSize()
         {
+            return (n);
+        }
+        static void Main(string[]args)
 
 
 
