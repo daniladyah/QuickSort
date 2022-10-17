@@ -65,6 +65,10 @@ namespace QuickSort
 
             pivot = arr[low];
 
+            while (i <= j)
+            {
+                //Search for an elements greather than pivot
+
 
 
 
