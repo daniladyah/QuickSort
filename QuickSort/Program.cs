@@ -52,13 +52,20 @@ namespace QuickSort
         }
         public void q_sort (int low, int high)
         {
-            int pivot, 1, j;
+            int pivot, i, j;
             if (low > high)
                 return;
 
             //Partition the list into two parts:
             //one containing elements less that or equal to pivot
             //Outher conntainning elements greather than pivot
+
+            i = low + 1;
+            j = high;
+
+
+
+
 
 
 
