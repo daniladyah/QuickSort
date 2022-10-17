@@ -105,6 +105,10 @@ namespace QuickSort
             q_sort(j + 1, high);
         }
         void display()
+        {
+            Console.WriteLine("\n-------------------");
+            Console.WriteLine("Sorted array elments");
+            Console.WriteLine("\n-------------------");
 
 
 
@@ -112,5 +116,5 @@ namespace QuickSort
 
 
 
-            }
+        }
     }
