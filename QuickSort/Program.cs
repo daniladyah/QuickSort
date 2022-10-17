@@ -50,7 +50,7 @@ namespace QuickSort
             arr[x] = arr[y];
             arr[y] = temp;
         }
-        public void q_sort (int low, int high)
+        public void q_sort(int low, int high)
         {
             int pivot, i, j;
             if (low > high)
@@ -103,7 +103,8 @@ namespace QuickSort
 
             //sort the list on the right of pivot using quick sort
             q_sort(j + 1, high);
-
+        }
+        void display()
 
 
 
