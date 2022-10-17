@@ -58,6 +58,7 @@ namespace QuickSort
 
             //Partition the list into two parts:
             //one containing elements less that or equal to pivot
+            //Outher conntainning elements greather than pivot
 
 
 
