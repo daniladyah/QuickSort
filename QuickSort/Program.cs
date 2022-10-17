@@ -126,6 +126,8 @@ namespace QuickSort
             //Declaring the object of the class
             Program myList = new Program();
             //Acept array elemets
+            myList.read();
+            //Calling the sorting function
             
 
 
