@@ -110,6 +110,13 @@ namespace QuickSort
             Console.WriteLine("Sorted array elments");
             Console.WriteLine("\n-------------------");
 
+            for (int j = 0; j < n; j++)
+            {
+                Console.WriteLine(arr[j]);
+            }
+            Console.WriteLine("\nNumber of comparisons: " cmp_count);
+
+
 
 
 
